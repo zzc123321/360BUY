@@ -16,9 +16,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 <SCRIPT type=text/javascript>window.pageConfig = { compatible: true}; </SCRIPT>
 	
 	<script type="text/javascript">
-
 		var n = 3;
-	
 		//倒计时
 		function djs(){
 
