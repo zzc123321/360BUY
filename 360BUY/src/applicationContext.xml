@@ -28,7 +28,7 @@
   	<property name="initialPoolSize" value="${initialPoolSize}"/>
   	<property name="minPoolSize" value="${minPoolSize}"/>
   	<property name="maxPoolSize" value="${maxPoolSize}"/>
-  	<property name="checkoutTimeout" value="${checkoutTimeout}"/>
+  	<!-- <property name="checkoutTimeout" value="${checkoutTimeout}"/> -->
   </bean>
   
   <!-- Spring 整合 Hibernate -->
