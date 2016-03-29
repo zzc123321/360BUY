@@ -37,9 +37,9 @@
 			 	
 	 </package>
 	 
-	 <include file="struts_users.xml"/>
-	 <include file="struts_goods.xml"/>
-	 <include file="struts_shoppingCar.xml"/>
-	 <include file="struts_order.xml"/>
+	 <include file="/config/struts_users.xml"/>
+	 <include file="/config/struts_goods.xml"/>
+	 <include file="/config/struts_shoppingCar.xml"/>
+	 <include file="/config/struts_order.xml"/>
 	
 </struts>
